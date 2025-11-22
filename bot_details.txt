@@ -1,0 +1,10 @@
+Welcome to the Checker Bot!
+
+Update this file with the exact introduction, disclaimers, or prompts you want to send to your users. The bot will read the contents of this file every time a user starts the bot or requests /help.
+
+Example usage instructions:
+1. Send /check followed by a URL, IP address, hash, or any text to analyze.
+2. Use inline mode by typing @YourBotName in any chat for instant checks.
+3. Reach out to the admin if you need elevated access.
+
+This file supports multiple paragraphs. Keep it short for better readability in Telegram.
